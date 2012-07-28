@@ -13,7 +13,9 @@ body { font-family: "Myriad Prox", "Helvetica Neue", Arial, sans-serif;}
 
 .reveal blockquote { padding: 20px 40px;}
 
-pre code { padding: 0em 1.5em; }
+.reveal p { margin-bottom: 1em;}
+
+.reveal pre code { padding: 0em 1.5em; }
 
 /* Better navigation */
 
@@ -54,7 +56,7 @@ pre code { padding: 0em 1.5em; }
 /* icons-warning */
 
 .icon-attention,
-.icon-attention-circle { color: #FFD040; }
+.icon-attention-circle { color: #FFFF00; }
 
 /* icons heart*/
 .icon-heart, 
