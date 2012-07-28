@@ -1,13 +1,13 @@
 @font-face {
-  font-family: '7pikes';
-  src: url("../font/7pikes.eot");
-  src: url("../font/7pikes.eot?#iefix") format('embedded-opentype'), url("../font/7pikes.woff") format('woff'), url("../font/7pikes.ttf") format('truetype'), url("../font/7pikes.svg#7pikes") format('svg');
+  font-family: 'icons';
+  src: url("../font/icons.eot");
+  src: url("../font/icons.eot?#iefix") format('embedded-opentype'), url("../font/icons.woff") format('woff'), url("../font/icons.ttf") format('truetype'), url("../font/icons.svg#icons") format('svg');
   font-weight: normal;
   font-style: normal;
 }
 [class^="icon-"]:before,
 [class*=" icon-"]:before {
-  font-family: '7pikes';
+  font-family: 'icons';
   font-style: normal;
   font-weight: normal;
   speak: none;
