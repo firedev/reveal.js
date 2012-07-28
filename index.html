@@ -12,13 +12,21 @@
 		<meta name="apple-mobile-web-app-capable" content="yes" />
 		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 		
-		<link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-		
+		<link href='http://fonts.googleapis.com/css?family=Ubuntu:400,700,400italic,700italic&subset=latin,cyrillic-ext' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Ubuntu+Condensed&subset=latin,cyrillic-ext' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="lib/font/Droid-Sans-Mono-fontfacekit/stylesheet.css">
+
 		<link rel="stylesheet" href="css/reset.css">
 		<link rel="stylesheet" href="css/main.css">
 		<link rel="stylesheet" href="css/print.css" type="text/css" media="print">
 
 		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<link rel="stylesheet" href="lib/icons/css/icons.css"><!--[if IE 7]>
+	    <link rel="stylesheet" href="lib/icons/css/icons-ie7.css"><![endif]-->
+
+		<link rel="stylesheet" href="lib/css/russian.css">
+
 	</head>
 	
 	<body>
@@ -31,18 +39,19 @@
 			<!-- Any section element inside of this container is displayed as a slide -->
 			<div class="slides">
 				<section>
-					<h1>Reveal.js</h1>
-					<h3 class="inverted">CSS 3D Presentations</h3>
+					<h1>Ривил.жс</h1>
+					<h3 class="inverted">ЦСС 3Д Презентация</h3>
 					<script>
 						// Delicously hacky. Look away.
-						if( navigator.userAgent.match( /(iPhone|iPad|iPod|Android)/i ) ) document.write( '<p style="color: rgba(0,0,0,0.3); text-shadow: none;">('+'Tap to navigate'+')</p>' );
+						if( navigator.userAgent.match( /(iPhone|iPad|iPod|Android)/i ) ) 
+							document.write( '<p style="color: rgba(0,0,0,0.3); text-shadow: none;">'+'<i class="icon-right"></i>'+'</p>' );
 					</script>
 				</section>
 				
 				<section>
-					<h2>Heads Up</h2>
+					<h2>Что тут</h2>
 					<p>
-						reveal.js is an easy to use, HTML based, presentation tool. You'll need a modern browser with 
+						ривил.жс это легкий в использовании, основанный на HTML, инструмент для создания презентаций. You'll need a modern browser with 
 						support for CSS 3D transforms to see it in its full glory.
 					</p>
 					<p>
@@ -245,10 +254,10 @@ function linkify( selector ) {
 
 			<!-- The navigational controls UI -->
 			<aside class="controls">
-				<a class="left" href="#">&#x25C4;</a>
-				<a class="right" href="#">&#x25BA;</a>
-				<a class="up" href="#">&#x25B2;</a>
-				<a class="down" href="#">&#x25BC;</a>
+				<a class="left icon-left" href="#"></a>
+				<a class="right icon-right" href="#"></a>
+				<a class="up icon-up" href="#"></a>
+				<a class="down icon-down" href="#"></a>
 			</aside>
 
 			<!-- Presentation progress bar -->
