@@ -16,6 +16,8 @@ body { font-family: "Myriad Prox", "Helvetica Neue", Arial, sans-serif;}
 .reveal p { margin-bottom: 1em;}
 
 .reveal pre code { padding: 0em 1.5em; }
+.reveal p code,
+.reveal li code { color: #8CD0D3;}
 
 /* Better navigation */
 
