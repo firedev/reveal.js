@@ -13,6 +13,8 @@ body { font-family: "Myriad Prox", "Helvetica Neue", Arial, sans-serif;}
 
 .reveal blockquote { padding: 20px 40px;}
 
+pre code { padding: 0em 1.5em; }
+
 /* Better navigation */
 
 .reveal .controls .left,
