@@ -22,3 +22,41 @@ pre code { padding: 0em 1.5em; }
 .reveal .controls .down { top: 55px;}
 .reveal .controls .up { top: 25px;}
 
+/* icons */
+
+/* icons neutral */
+.icon-cog,
+.icon-flag,
+.icon-pencil,
+.icon-location,
+.icon-asterisk,
+.icon-help-circle,
+.icon-info-circle, 
+.reveal section .icon-up,
+.reveal section .icon-down,
+.reveal section .icon-left,
+.reveal section .icon-right { color: #71E9F4;}
+
+/* icons-good */
+
+.icon-ok,
+.icon-leaf,
+.icon-thumbs-up,
+.icon-plus-circle { color: #A8E737; }
+
+/* icons-bad */
+
+.icon-cancel,
+.icon-thumbs-down,
+.icon-minus-circle { color: #ff6060;}
+
+
+/* icons-warning */
+
+.icon-attention,
+.icon-attention-circle { color: #FFD040; }
+
+/* icons heart*/
+.icon-heart, 
+.icon-heart-empty { color: #dd3366;}
+
