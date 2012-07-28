@@ -1,0 +1,22 @@
+/* General typography */
+
+body { font-family: "Myriad Prox", "Helvetica Neue", Arial, sans-serif;} 
+
+.reveal h1, 
+.reveal h2, 
+.reveal h3, 
+.reveal h4 { font-family: "Myriad Pro", Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Neue", "Bitstream Vera Sans Bold", "Arial Black", Arial, sans-serif; letter-spacing: -0.03em; font-weight: bold}
+
+.reveal pre, .reveal code { font-family: "Bitstream Vera Sans Mono", "Andale Mono", AndaleMono, Monaco, Courier, monospace; font-weight: bold; letter-spacing: -0.05em}
+
+.reveal q, .reveal quote, .reveal blockquote { font-family: Georgia, serif;}
+
+.reveal blockquote { padding: 20px 40px;}
+
+/* Better navigation */
+
+.reveal .controls .left,
+.reveal .controls .right,
+.reveal .controls .down { top: 55px;}
+.reveal .controls .up { top: 25px;}
+
