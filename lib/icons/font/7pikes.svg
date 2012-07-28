@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>
+Created by FontForge 20100429 at Sat Jul 28 03:34:23 2012
+ By root
+Copyright (C) 2012 by original authors @ fontello.com
+</metadata>
+<defs>
+<font id="7pikes" horiz-adv-x="789" >
+  <font-face 
+    font-family="fontello"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1000"
+    panose-1="2 0 6 9 0 0 0 0 0 0"
+    ascent="800"
+    descent="-200"
+    bbox="-0.516129 -67 791 725"
+    underline-thickness="50"
+    underline-position="-100"
+    unicode-range="U+2190-2193"
+  />
+<missing-glyph 
+d="M33 0v666h265v-666h-265zM66 33h199v600h-199v-600z" />
+    <glyph glyph-name=".notdef" 
+d="M33 0v666h265v-666h-265zM66 33h199v600h-199v-600z" />
+    <glyph glyph-name=".null" horiz-adv-x="0" 
+ />
+    <glyph glyph-name="nonmarkingreturn" 
+ />
+    <glyph glyph-name="arrowleft" unicode="&#x2190;" 
+d="M0 329q0 20 15 35l345 346q15 15 35 15t34 -15l52 -52q15 -14 15 -34t-15 -35l-174 -174h433q21 0 35 -14t14 -35v-74q0 -20 -14 -34t-34 -14h-434l174 -174q15 -15 15 -35t-15 -34l-52 -52q-14 -15 -34 -15t-35 15l-345 345q-15 15 -15 35z" />
+    <glyph glyph-name="arrowup" unicode="&#x2191;" 
+d="M-0.5 329q-0.5 20 14.5 35l346 345q15 15 35 15t34 -15l346 -345q14 -15 14 -35t-14 -35l-52 -51q-15 -15 -34.5 -15t-33.5 15l-175 173v-433q0 -20 -14 -34.5t-34 -14.5h-74q-21 0 -35 14.5t-14 34.5v433l-173 -173q-15 -15 -35 -15t-35 15l-51 51q-15 15 -15.5 35z" />
+    <glyph glyph-name="arrowright" unicode="&#x2192;" 
+d="M0 293v74q0 20 14 34t34 14h434l-174 174q-14 15 -14 35t14 34l52 52q15 15 35 15t34 -15l346 -346q14 -15 14 -34.5t-14 -34.5l-346 -346q-14 -15 -34 -15t-35 15l-52 52q-14 14 -14 34t14 35l174 174h-434q-20 0 -34 14t-14 35z" />
+    <glyph glyph-name="arrowdown" unicode="&#x2193;" 
+d="M0 328q0 20 15 35l51 51q15 15 35 15t35 -15l173 -173v433q0 20 14.5 34.5t34.5 14.5h74q21 0 34.5 -14.5t13.5 -34.5v-433l175 173q14 15 33.5 15t34.5 -15l53 -51q15 -15 15 -35t-15 -35l-347 -345q-14 -15 -34 -15t-35 15l-345 345q-15 15 -15 35z" />
+  </font>
+</defs></svg>
